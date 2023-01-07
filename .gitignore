@@ -1,2 +1,6 @@
+.gitignore
+
 config.py
 main.py
+
+__pycache__
